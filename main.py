@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import ttk
 
 raiz=Tk()
 raiz.iconbitmap('calculadora.ico')
